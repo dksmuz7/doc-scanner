@@ -7,9 +7,12 @@ As you read the title that Doc Scanner - I am creating a python program using op
 2. If you select for the webcam make sure to specify the camera no. for pc webcam it will be 0, and so on
 
 **Output that I am getting for the image provided in the resources folder**
-image choosen
+
+Image choosen
+
 <img src="resources/book2.jpg">
-output
-<img src="#">
+
+Output
+<img src="/output/Screenshot from 2021-07-24 17-46-36.png">
 
 <p>This project is yet improving</p>
