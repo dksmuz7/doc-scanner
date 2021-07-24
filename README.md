@@ -15,4 +15,4 @@ Image choosen
 Output
 <img src="/output/Screenshot from 2021-07-24 17-46-36.png">
 
-<p>This project is yet improving</p>
+<b align="center">This project is yet improving</b>
